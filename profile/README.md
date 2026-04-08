@@ -1,7 +1,7 @@
 ## Welcome to Azazel's Den Incorporation on GitHub
 This is where all the coding project repositories released by ADI are kept and managed.
 
-You can visit our [website](https://azazelsden.xyz) for more information.
+You can visit our [website](https://azdeninc.org) for more information.
 
 ## 
 
